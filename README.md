@@ -14,3 +14,4 @@ and to provide a convinient user interface.
 1. Presentation slide deck: Available on the [RPubs page](http://rpubs.com/sdpatil/slidedeckdsc)
 2. Source code for ui.R and server.R files: Available on the [GitHub repo](https://github.com/shubham859/Data-Science-Capstone)
 4. Cleansed data objects of n-grams: Available on the [GitHub repo](https://github.com/shubham859/Data-Science-Capstone)
+5. Link for Shiny App: Available on [Shiny App](https://shubham859.shinyapps.io/DataScienceCapstone/)
